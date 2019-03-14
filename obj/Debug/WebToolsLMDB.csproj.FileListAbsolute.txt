@@ -1,0 +1,13 @@
+C:\Users\b3nj4m1n\source\repos\WebToolsFürLMDB\WebToolsLMDB\bin\Debug\WebToolsLMDB.dll
+C:\Users\b3nj4m1n\source\repos\WebToolsFürLMDB\WebToolsLMDB\bin\Debug\WebToolsLMDB.pdb
+C:\Users\b3nj4m1n\source\repos\WebToolsFürLMDB\WebToolsLMDB\bin\Debug\HtmlAgilityPack.dll
+C:\Users\b3nj4m1n\source\repos\WebToolsFürLMDB\WebToolsLMDB\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\b3nj4m1n\source\repos\WebToolsFürLMDB\WebToolsLMDB\bin\Debug\HtmlAgilityPack.xml
+C:\Users\b3nj4m1n\source\repos\WebToolsFürLMDB\WebToolsLMDB\obj\Debug\WebToolsLMDB.csprojAssemblyReference.cache
+C:\Users\b3nj4m1n\source\repos\WebToolsFürLMDB\WebToolsLMDB\obj\Debug\WebToolsLMDB.csproj.CoreCompileInputs.cache
+C:\Users\b3nj4m1n\source\repos\WebToolsFürLMDB\WebToolsLMDB\obj\Debug\WebToolsLMDB.csproj.CopyComplete
+C:\Users\b3nj4m1n\source\repos\WebToolsFürLMDB\WebToolsLMDB\obj\Debug\WebToolsLMDB.dll
+C:\Users\b3nj4m1n\source\repos\WebToolsFürLMDB\WebToolsLMDB\obj\Debug\WebToolsLMDB.pdb
+C:\Users\b3nj4m1n\source\repos\WebToolsFürLMDB\WebToolsLMDB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\b3nj4m1n\source\repos\WebToolsFürLMDB\WebToolsLMDB\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\b3nj4m1n\source\repos\WebToolsFürLMDB\WebToolsLMDB\bin\Debug\Newtonsoft.Json.xml
