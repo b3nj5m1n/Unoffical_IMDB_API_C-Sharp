@@ -1,5 +1,10 @@
 # Unoffical_IMDB_API_C-Sharp
 
+## Disclaimer:
+I wrote this more than a year ago, I no longer use C# and have no intention of maintaining this.
+
+If you need something like this, do yourself a favor and write it yourself, it's really just a simple webscraper.
+
 ## Documentation:
 
 ### Search IMDB:
